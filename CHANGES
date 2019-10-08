@@ -1,0 +1,6 @@
+Version 0.1.0
+ - added bumpver script
+ - we now have a gitignore and valid 200 response in json
+ - Add files via upload
+ - Initial commit
+
